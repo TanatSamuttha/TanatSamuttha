@@ -1,17 +1,13 @@
 
 <h1 align="center"> &lt Hello World! 👋 &gt </h1>
 
-<br>
-
-<h3 align="center">statistic</h3>
+<h2 align="center">Statistic</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanatSamuttha" height=160px>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatSamuttha&size_weight=0.5&count_weight=0.5&layout=compact" height=160px>
 </p>
 
-<br>
-
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">Tech Stack</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
