@@ -1,5 +1,5 @@
 
-## Hello World! 👋
+<h1 align="center"> &lt Hello World! 👋 &gt </h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatSamuttha&size_weight=0.5&count_weight=0.5&layout=compact">
