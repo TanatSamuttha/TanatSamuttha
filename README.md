@@ -4,7 +4,7 @@
 <h2 align="center">Statistic</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanatSamuttha" height=160px>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatSamuttha&size_weight=0.5&count_weight=0.5&layout=compact" height=160px>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatSamuttha&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10" height=160px>
 </p>
 
 <h2 align="center">Tech Stack</h2>
