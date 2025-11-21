@@ -3,12 +3,14 @@
 
 <br>
 
+<h3 align="center">statistic</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatSamuttha&size_weight=0.5&count_weight=0.5&layout=compact">
 </p>
 
 <br>
 
+<h3 align="center">Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
@@ -19,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="https://github.com/TanatSamuttha/TanatSamuttha/blob/main/grass.gif?raw=true" width=100%>
