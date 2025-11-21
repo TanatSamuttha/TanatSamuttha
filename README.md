@@ -1,13 +1,13 @@
 
 <h1 align="center"> &lt Hello World! 👋 &gt </h1>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatSamuttha&size_weight=0.5&count_weight=0.5&layout=compact">
 </p>
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://github.com/TanatSamuttha/TanatSamuttha/blob/main/grass.gif?raw=true" width=100%>
