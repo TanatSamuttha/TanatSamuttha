@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatSamuttha&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10" height=160px>
 </p>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Skill</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
