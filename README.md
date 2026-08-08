@@ -1,13 +1,6 @@
-
 <h1 align="center"> &lt Hello World! 👋<img src="https://github.com/TanatSamuttha/TanatSamuttha/blob/main/hertaspin.gif?raw=true" height=50px> &gt </h1>
 
-<h2 align="center">Statistic</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=TanatSamuttha" height=160px>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatSamuttha&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=5" height=160px>
-</p>
-
-<h2 align="center">Skill</h2>
+<h2 align="center">Tech Stack</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
